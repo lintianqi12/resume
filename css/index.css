@@ -168,11 +168,11 @@ body,html{
 /* 	background: url(../images/292H_01.jpg); */
 }
 .p1{
-	color: #333;
+	color: #666;
 	font-size: 1.2rem;
 	text-shadow:0.06rem 0.06rem 0.06rem #999;
 	margin-left: 0.5rem;
-	margin-top: 0.6rem;
+	margin-top: 1rem;
 }
 .p2{
 	font-size:0.4rem;
