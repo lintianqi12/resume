@@ -165,17 +165,17 @@ body,html{
 
 /*第四屏*/
 .page4{
-	background: url(../images/292H_01.jpg);
+/* 	background: url(../images/292H_01.jpg); */
 }
 .p1{
 	color: #333;
 	font-size: 1.2rem;
-	text-shadow:0 0 0.06rem #fff;
+	text-shadow:0.06rem 0.06rem 0.06rem #999;
 	margin-left: 0.5rem;
 	margin-top: 0.6rem;
 }
 .p2,.p3,.p4{
-	font-size:0.6rem;
+	font-size:0.4rem;
 	color: #666;
 	margin-left: 0.8rem;
 	margin-top: 1rem;
