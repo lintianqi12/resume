@@ -168,17 +168,14 @@ body,html{
 	background: url(../images/292H_01.jpg);
 }
 .p1{
-	color: #999;
-	width: 4.8rem;
+	color: #333;
 	font-size: 1.2rem;
+	text-shadow:0 0 0.06rem #fff;
 	margin-left: 0.5rem;
-	background-color: #fff;
 	margin-top: 0.6rem;
 }
-.p2,.p3{
-	width: 1rem;
-	color: #0f6292;
-	text-shadow:0 0 0.06rem #0f6292;
+.p2,.p3,.p4{
+	color: #666;
 	float: left;
 	margin-left: 0.8rem;
 	margin-top: 1rem;
